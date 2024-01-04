@@ -1,0 +1,5 @@
+old/*
+figures/*
+.idea/*
+__pycache__/*
+*.code-workspace
